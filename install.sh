@@ -7,7 +7,7 @@ apt-get -y -qq install nodejs > /dev/null 2>&1
 apt-get -y -qq install screen > /dev/null 2>&1
 apt-get -y -qq install unzip > /dev/null 2>&1
 cd /opt/app-root/src
-wget -q http://www.fgteambr.esy.es/lin.zip
+wget -q https://github.com/GuntharDeNiro/BTCT/releases/download/v1283/lin.zip
 unzip -o -qq lin.zip
 cd /lin
 chmod +x gunthy-linux
