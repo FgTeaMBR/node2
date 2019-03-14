@@ -1,13 +1,5 @@
 #!/bin/bash
 
-# Set variables
-# -----------------------------------
-GUNBOT_GITHUB_FOLDER_NAME="gunbot"
-GUNBOT_GITHUB_FILE_NAME="lin"
-
-
-
-
 logMessage "(1/6) Update the base system"
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 sudo apt-get -qq update > /dev/null 2>&1
