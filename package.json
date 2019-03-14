@@ -14,7 +14,7 @@
     "object-assign":"4.1.0"
   },
   "engine": {
-    "node": "v10.14.0",
+    "node": "10.14.0",
     "npm": "6.4.1"
   },
   "scripts": {
