@@ -14,8 +14,8 @@
     "object-assign":"4.1.0"
   },
   "engine": {
-    "node": "*",
-    "npm": "*"
+    "node": "v10.14.0",
+    "npm": "6.4.1"
   },
   "scripts": {
     "prepublish": "nsp check",
