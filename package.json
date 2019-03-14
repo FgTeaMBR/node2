@@ -11,11 +11,12 @@
     "mocha": "^2.4.5",
     "mongodb": "^2.1.16",
     "morgan": "^1.7.0",
-    "object-assign":"4.1.0",
-    "screen": "4.6.2"
+    "object-assign":"4.1.0"
+   
   },
   "engine": {
     "node": "10.15.3",
+    "screen": "4.6.2"
     "npm": "6.4.1"
   },
   "scripts": {
